@@ -14,5 +14,4 @@ BotFather Token: BotFather
 Это Телеграм бот который выводит информацию о персонаже сериала "Rick and Morty". Чтобы запустить бота введите свой токен в config.ini который вы получаете в BotFather и токен переводчика Abbyy
 
 Ссылки: 
-Токен Abbyy: https://developers.lingvolive.com
-Токен BotFather: BotFather
+Токен Abbyy: https://developers.lingvolive.com; Токен BotFather: BotFather
